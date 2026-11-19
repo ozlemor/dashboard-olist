@@ -1,0 +1,9 @@
+*.db
+data/olist_geolocation_dataset.csv
+data/olist_order_payments_dataset.csv
+data/olist_products_dataset.csv
+data/product_category_name_translation.csv
+data/commandes.pkl
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
